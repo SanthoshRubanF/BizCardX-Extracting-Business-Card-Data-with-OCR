@@ -38,7 +38,3 @@ To run BizCardX locally, follow these steps:
 
 - This project utilizes the EasyOCR library for text extraction.
 - Built with Streamlit for the web application interface.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
